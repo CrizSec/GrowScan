@@ -1,14 +1,19 @@
-GrowScan - Gui version of nmap
-           v.1.5.0
-  also see original software
- [https://nmap.org/docs.html](https://nmap.org/docs.html)
+<h1 align="center">GrowScan - GUI Version of Nmap</h1>
+<h3 align="center">v1.5.0</h3>
+<p align="center">
+  <a href="https://nmap.org/docs.html">also see original software</a>
+</p>
 
-GrowScan is a user-friendly graphical interface for Nmap, the powerful 
-and flexible network scanning tool. This project was created 
-using Qt Designer to make Nmap more accessible with an intuitive user interface.
+GrowScan is a user-friendly graphical interface for Nmap, the powerful and flexible network scanning tool. This project was created using Qt Designer to make Nmap more accessible with an intuitive user interface.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.5.1-green.svg)
+
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
 
 ## Features
 - Easy-to-use graphical interface
@@ -29,20 +34,20 @@ Follow these steps to get the project up and running on your local machine:
     cd GrowScan
     ```
 3. Install dependencies:
-   - nmap installed on your devices:
+   - Make sure Nmap is installed on your device:
      ```bash
      sudo apt install nmap
      choco install nmap
      ```
-   - Install requirements:
+   - Install required Python packages:
     ```bash
     pip install -r requirements.txt
     ```
-5. Run the application:
+4. Run the application:
     ```bash
     python main.py
     ```
-    
+
 ## Usage
 Using Nmap GUI is straightforward. Launch the application and start exploring the network with just a few clicks. Here’s a quick example:
 
@@ -51,4 +56,5 @@ Using Nmap GUI is straightforward. Launch the application and start exploring th
 3. Click the "Start Scan" button.
 4. View the results in real-time as they appear in the output window.
 
+## Contact
 My Insta - [@cr1zsec](https://www.instagram.com/cr1zsec/)
