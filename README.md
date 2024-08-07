@@ -9,7 +9,7 @@ and flexible network scanning tool. This project was created
 using Qt Designer to make Nmap more accessible with an intuitive user interface.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
+![Version](https://img.shields.io/badge/version-1.5.1-green.svg)
 
 ## Features
 - Easy-to-use graphical interface
