@@ -10,7 +10,7 @@ GrowScan is a user-friendly graphical interface for Nmap, the powerful and flexi
 ![Version](https://img.shields.io/badge/version-1.5.1-green.svg)
 
 <p align="center">
-  <img src="https://i.ibb.co/64Jx3XL" alt="GrowScan Screenshot">
+  <img src="https://ibb.co.com/64Jx3XL" alt="GrowScan Screenshot">
 </p>
 
 ## Table of Contents
