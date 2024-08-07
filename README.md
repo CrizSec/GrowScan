@@ -1,7 +1,8 @@
-#      GrowScan - Gui version of nmap
-#                 v.1.5.0
-#       also see original software
-#      [https://nmap.org/docs.html](https://nmap.org/docs.html)
+GrowScan - Gui version of nmap
+           v.1.5.0
+  also see original software
+ [https://nmap.org/docs.html](https://nmap.org/docs.html)
+
 GrowScan is a user-friendly graphical interface for Nmap, the powerful 
 and flexible network scanning tool. This project was created 
 using Qt Designer to make Nmap more accessible with an intuitive user interface.
