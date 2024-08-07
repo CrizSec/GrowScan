@@ -9,6 +9,10 @@ GrowScan is a user-friendly graphical interface for Nmap, the powerful and flexi
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.5.1-green.svg)
 
+<p align="center">
+  <img src="https://i.ibb.co/64Jx3XL" alt="GrowScan Screenshot">
+</p>
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
@@ -57,4 +61,6 @@ Using Nmap GUI is straightforward. Launch the application and start exploring th
 4. View the results in real-time as they appear in the output window.
 
 ## Contact
-My Insta - [@cr1zsec](https://www.instagram.com/cr1zsec/)
+<p align="center">
+  <a href="https://www.instagram.com/cr1zsec/">@cr1zsec</a>
+</p>
